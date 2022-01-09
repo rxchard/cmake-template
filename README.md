@@ -6,7 +6,7 @@
 cmake/
 # Contains configuration for build related extensions like CPM.
 
-dependencies/
+pm/
 # C/C++ Dependencies + Configuration
 
 src/

@@ -1,3 +1,6 @@
-build/
-cmake/build_deps/
+# IDE/Editor based folders
 .vscode/
+
+# Generated folders
+cmake/build_deps/
+build/
